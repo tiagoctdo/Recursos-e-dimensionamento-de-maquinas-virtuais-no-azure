@@ -1,0 +1,1 @@
+# Recursos-e-dimensionamento-de-maquinas-virtuais-no-azure
